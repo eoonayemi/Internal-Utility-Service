@@ -1,0 +1,16 @@
+__pycache__
+*.pyc
+*.pyo
+.git
+.gitignore
+.env
+.pytest_cache
+.github
+*.md
+!requirements.txt
+Dockerfile
+.dockerignore
+deploy.sh
+nginx.conf
+.vscode
+.idea
